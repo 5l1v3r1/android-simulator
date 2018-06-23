@@ -132,6 +132,15 @@
   <data name="dosya" xml:space="preserve">
     <value>Dosya</value>
   </data>
+  <data name="groupbox1" xml:space="preserve">
+    <value>Arduino Değerleri</value>
+  </data>
+  <data name="groupbox2" xml:space="preserve">
+    <value>İşlemler</value>
+  </data>
+  <data name="groupbox3" xml:space="preserve">
+    <value>Dijital Veriler</value>
+  </data>
   <data name="ingilizce" xml:space="preserve">
     <value>İngilizce</value>
   </data>

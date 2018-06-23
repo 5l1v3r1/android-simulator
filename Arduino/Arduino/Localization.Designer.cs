@@ -106,6 +106,33 @@ namespace Arduino {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Arduino Değerleri.
+        /// </summary>
+        internal static string groupbox1 {
+            get {
+                return ResourceManager.GetString("groupbox1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to İşlemler.
+        /// </summary>
+        internal static string groupbox2 {
+            get {
+                return ResourceManager.GetString("groupbox2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dijital Veriler.
+        /// </summary>
+        internal static string groupbox3 {
+            get {
+                return ResourceManager.GetString("groupbox3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to İngilizce.
         /// </summary>
         internal static string ingilizce {
